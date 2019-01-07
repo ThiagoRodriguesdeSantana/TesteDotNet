@@ -1,0 +1,8 @@
+﻿Maria;Soma;10;2 
+Antonio;Divisão;10;2 
+Xavier;Multiplicação;10;2 
+Italo;Subtração;10;2 
+Marcelo;Subtração;10;2 
+Augusto;Divisão;10;2 
+
+THIAGO RODRIGUES DE SANTANA;Soma;10;20;2;5;12 

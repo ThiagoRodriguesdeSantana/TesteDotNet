@@ -1,0 +1,6 @@
+C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\bin\Debug\TesteDotNet.Calculadora.dll
+C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\bin\Debug\TesteDotNet.Calculadora.pdb
+C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.dll
+C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.pdb
