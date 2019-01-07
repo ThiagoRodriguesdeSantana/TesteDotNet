@@ -4,3 +4,9 @@ C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\Teste
 C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.dll
 C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.pdb
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet.Calculadora\bin\Debug\TesteDotNet.Calculadora.dll
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet.Calculadora\bin\Debug\TesteDotNet.Calculadora.pdb
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.csprojAssemblyReference.cache
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.dll
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet.Calculadora\obj\Debug\TesteDotNet.Calculadora.pdb

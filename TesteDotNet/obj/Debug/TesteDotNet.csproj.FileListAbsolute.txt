@@ -8,3 +8,13 @@ C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.pdb
 C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.Calculadora.dll
 C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.Calculadora.pdb
 C:\Users\Thiago\source\repos\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.csproj.CopyComplete
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.exe.config
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.exe
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.pdb
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.Calculadora.dll
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\bin\Debug\TesteDotNet.Calculadora.pdb
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.csprojAssemblyReference.cache
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.csproj.CoreCompileInputs.cache
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.csproj.CopyComplete
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.exe
+C:\Users\invent\Documents\Visual Studio 2017\Projects\TesteDotNet\TesteDotNet\obj\Debug\TesteDotNet.pdb
